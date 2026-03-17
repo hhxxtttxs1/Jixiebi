@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/robot/miniconda3/envs/jixiebi/bin/python",
+  "python.terminal.activateEnvironment": true
+}
